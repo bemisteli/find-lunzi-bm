@@ -9,5 +9,5 @@ Author:[WasserCluster Lunz](https://wcl.ac.at/en/)
 
 ## Questions per Station
 - [Question 1](./questions/question_1.md)
-- Question 2
+- [Question 2](./questions/question_2.md)
 - Question 3
